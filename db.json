@@ -6,10 +6,10 @@
     "lastName": "Francesca",
     "image": "",
     "allergies": "No Allergies",
-    "phone": "(555) 1234-5678",
-    "email": "francesca.greco@example.com",
-    "address": "123 Vision Lane, Suite 200, City Ville, ST 1234567",
-    "medicalID": "GRCFNCXXXXXXXXYY"
+    "phone": "",
+    "email": "",
+    "address": "",
+    "medicalID": "GRCFNCXXXXXXXXY"
   },
   "users": [
     {
@@ -178,7 +178,7 @@
       "therapyName": "Therapy 1",
       "time": "12h30PM",
       "date": "2024-09-20",
-      "taken": true,
+      "taken": false,
       "therapy": 1,
       "prescriptionTime": 1
     },
